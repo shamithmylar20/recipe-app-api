@@ -53,7 +53,7 @@ The admin panel can be accessed at [http://localhost:8000/admin](http://localhos
 
 ## Tutorial
 
-[![How to Create Token And Authenticate](https://imgur.com/a/jXUq2UZ)](https://youtu.be/hAN9F2IqGp4)
+[![How to Create Token And Authenticate](https://img.youtube.com/vi/hAN9F2IqGp4/0.jpg)](https://youtu.be/hAN9F2IqGp4)
 
 
 ## API Endpoints
